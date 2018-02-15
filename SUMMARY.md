@@ -1,4 +1,4 @@
 # Table of contents
 
-* starter-docs
+* [Welcome!](README.md)
 
